@@ -1,6 +1,6 @@
 ## Datasets
 
-Unzip the datasets,  add them to the package data folder by running :
+Unzip the datasets, preprocess data by running :
 ```
 python tkbc/process.py
 ```
