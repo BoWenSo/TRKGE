@@ -1,4 +1,4 @@
-#TRKGE
+# TRKGE
 
 This code reproduces results in Temporal Relevance for Representing Learning over Temporal Knowledge Graphs
 
