@@ -1,6 +1,6 @@
 # TRKGE
 
-This code reproduces results in Temporal Relevance for Representing Learning over Temporal Knowledge Graphs
+This code reproduces results in _Temporal Relevance for Representing Learning over Temporal Knowledge Graphs_
 
 TRKGE is a temporal knowledge graph embedding model that performs link prediction on temporal knowledge graph.
 TRKGE is a tensor decomposition model, where the real part learns temporal relevance, and imaginary part learns the relationships between entities, relations and timestamps.
